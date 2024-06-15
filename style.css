@@ -1,0 +1,41 @@
+#maindiv {
+    background-color: cadetblue;
+    text-align: center;
+}
+#div2 {
+    background-color: aliceblue;
+    border: 10mm;
+    border-style: ridge;
+    border-color: black;
+    text-align: center;
+    
+}
+#d3 {
+    background-color: white;
+    border: 10mm;
+    border-style: ridge;
+    border-color: black;
+    text-align: top;
+    color: black;
+}
+#s1 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: medium;
+    background-color: beige;
+
+}
+#s2 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: medium;
+    background-color: beige;
+    
+}
+
+
+
+canvas {
+   margin-top: 200px;
+   border: 
+}
